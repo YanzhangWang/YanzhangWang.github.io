@@ -7,65 +7,35 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year BEng student in **Mechatronics and Robotic Systems** at the [University of Liverpool](https://www.liverpool.ac.uk/), expected to graduate in July 2025. My first two years were completed at [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/), where I achieved a Stage 3 score of 75% under the British marking criteria.
+I am a PhD student in the Department of Electrical Engineering and Electronics at the [University of Liverpool](https://www.liverpool.ac.uk/), supervised by [Dr. Junqing Zhang](https://junqing-zhang.github.io/). My research interests include **Radio Frequency Fingerprinting (RFF)** and **adversarial attacks and defenses** for wireless systems.
 
-My research and engineering interests span **robotic systems**, **computer vision**, **intelligent manufacturing**, and **human-computer interaction (HCI)**. I have worked on YOLOv8-based human pose estimation for elderly care monitoring, human-robot collaboration in industrial assembly environments, and MATLAB image-processing pipelines for crack detection in smart materials.
+Prior to my PhD, I received my BEng degree in Mechatronics and Robotic Systems jointly from the University of Liverpool and Xi'an Jiaotong-Liverpool University (XJTLU). During my undergraduate studies, I developed a broad foundation in robotics, computer vision, and intelligent systems, and gained hands-on experience through research projects and industry internships.
 
----
+## Research Interests
 
-## Professional Experience
+- Radio Frequency Fingerprinting (RFF)
+- Adversarial Attacks and Defenses
+- Deep Learning for Wireless Security
+- Physical-Layer Security
 
-**Testing Intern** — RSTECH / KUKA AG Strategic Cooperative R&D Center, Suzhou, China *(Jul 2024 – Sep 2024)*
+## Education
 
-- Evaluated advanced robotic materials including high-strength carbon fiber composites, corrosion-resistant titanium alloys, and shape memory alloys for different industrial applications.
-- Participated in the integration and commissioning of a standard six-axis surgical robot system; tested and optimized carbon fiber performance in the robot shell.
-- Assessed radiation transparency of carbon fiber and benchmarked interference with medical imaging equipment.
+- **PhD, Electrical Engineering and Electronics** (2025 – present) — University of Liverpool, UK
+- **BEng, Mechatronics and Robotic Systems** (2021 – 2025) — University of Liverpool & Xi'an Jiaotong-Liverpool University
 
-**Research Assistant** — Research Institute of Tsinghua University in Shenzhen (Remote) *(Jan 2024 – Apr 2024)*
+## Previous Research Experience
 
-- Processed stress-sensing glass crack image data (piezoelectric ceramics, SMA glass) using MATLAB: denoising, clarity standardization, and crack labeling.
-- Iteratively optimized machine vision algorithms to reduce false detections and missed cracks in smart material glass.
-- Conducted statistical analysis of crack data by material type; authored data reports to support downstream model training.
+**Intelligent Elderly Care System** — SURF Program, XJTLU, Supervisor: Dr. Yushan Pan *(2023)*  
+Developed a YOLOv8-based human pose estimation system to monitor elderly daily activities and alert caregivers in real time. Trained models using the Human3.6M and MPI-INF-3DHP datasets.
 
----
+**Human-Machine Collaboration in Intelligent Manufacturing** — Intelligent Collaborative Lab, XJTLU, Supervisor: Dr. Yushan Pan *(2022 – 2023)*  
+Designed a robot arm system using RGB color recognition (OpenCV/Python) for industrial part sorting. Conducted 16 observation sessions and semi-structured interviews to guide user-centered iterative design. This work led to a publication at ICVR 2023.
 
-## Research
-
-**Intelligent Elderly Care System** — SURF Program, Supervisor: Dr. Yushan Pan, XJTLU *(Jul 2023 – Sep 2023)*
-
-Based on a convolutional neural network and the YOLOv8 architecture, the system decomposes elderly daily actions into skeletal nodes, infers behavioural states, and alerts caregivers in real time. Utilized the Human3.6M and MPI-INF-3DHP datasets to improve recognition accuracy and reduce false positives.
-
-**Human-Machine Collaboration in Intelligent Manufacturing (HCI)** — Intelligent Collaborative Lab, XJTLU, Supervisor: Dr. Yushan Pan *(Sep 2022 – Jun 2023)*
-
-Designed a robot arm system using RGB color recognition (OpenCV) to identify and transport parts in simulated industrial assembly. Applied Python with HSV thresholding for color segmentation, debugged PCB hardware, and conducted 16 observation sessions plus semi-structured interviews (179 pages of notes) to guide user-centered iterative design.
-
-**Suzhou Fans Digital Museum** — SURF Program, Supervisor: Dr. Yushan Pan *(Jul 2022 – Sep 2022)*
-
-Built a digital museum website to preserve and disseminate Suzhou fan culture, using Axure for UI prototyping, AliCloud for server hosting, and WordPress for backend development.
-
----
+**Stress Sensing Glass Crack Identification** — Research Institute of Tsinghua University in Shenzhen *(2024)*  
+Developed MATLAB-based image processing pipelines to detect and classify cracks in smart material glass (piezoelectric ceramics, shape memory alloys) for intelligent manufacturing applications.
 
 ## Publication
 
 - **Human Robot Collaboration in Industrial Applications** *(2nd Author)*  
   *Proceedings of the 9th International Conference on Virtual Reality (ICVR 2023)*  
   "Human-Machine Collaboration in Intelligent Manufacturing: Designing Robots to Respond to Behavioral Intelligence"
-
----
-
-## Education
-
-- **BEng Mechatronics and Robotic Systems** (Expected Jul 2025) — University of Liverpool, UK
-- **BEng Mechatronics and Robotic Systems** (2021–2023, 75% Stage 3) — Xi'an Jiaotong-Liverpool University, Suzhou, China  
-  Core courses: Linear Algebra, Calculus, C Programming & Software Engineering, Electrical Circuits, Digital Electronics, Introduction to Mechatronics, SolidWorks.
-
----
-
-## Skills
-
-- **Programming:** Python, C, C++, MATLAB
-- **Robotics & Hardware:** ROS2, Arduino, Raspberry Pi, SolidWorks, Creo
-- **Computer Vision / AI:** YOLOv8, OpenCV, ONNX, CNN, Pose Estimation
-- **Design:** Adobe Premiere Pro, Photoshop, After Effects
-- **Academic writing:** LaTeX, Markdown
-- **Languages:** Chinese (Native), English (Fluent)
